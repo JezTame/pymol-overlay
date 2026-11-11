@@ -11,9 +11,9 @@ The script supports protein C-alpha fitting and single-residue ligand heavy-atom
 PyMOL running under Python 3, with NumPy available in PyMOL's Python environment. No additional Python packages are required for the superposition. The optional cgo_arrow.py script is needed only for displaying arrows described in the report.
 
 
-## Installation
+## Download the Python file
 
-1. Save or clone the repository on your computer.
+1. Save the file overlay.py somewhere convenient.
 2. Open PyMOL and load the molecular objects you want to compare.
 3. In the PyMOL command line, run:
 
